@@ -1,4 +1,4 @@
-mport streamlit as st
+import streamlit as st
 import google.generativeai as genai
 
 # Configure the API key for the Gemini API
